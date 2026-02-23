@@ -118,7 +118,7 @@ Top contributing features include:
 ## 📁 Repository Structure
 
 ```
-heart-disease-prediction-using-decisiontree-and-randomforest/
+heart-disease-prediction-using-decisiontree-randomforest/
 │
 ├── dataset/
 │   └── heart disease dataset.csv
@@ -139,7 +139,7 @@ heart-disease-prediction-using-decisiontree-and-randomforest/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/diyab6804-gh/heart-disease-prediction-using-decisiontree-and-randomforest.git
+   git clone https://github.com/diyab6804-gh/heart-disease-prediction-using-decisiontree-randomforest.git
    
 2. Install dependencies
    ```
